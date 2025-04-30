@@ -2,9 +2,10 @@
 
 This is a React-based photo viewing application built with Vite. It includes features for viewing photos, collections, and people.
 
-Frontend 
+## Frontend 
 - React
-Backend 
+
+## Backend 
 - Flask
 
 - [x] Photo Viewing
