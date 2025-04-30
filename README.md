@@ -2,6 +2,10 @@
 
 This is a React-based photo viewing application built with Vite. It includes features for viewing photos, collections, and people.
 
+[x] Photo Viewing
+[X] Load Collections
+[] Machine Learning Sort by People
+
 ## Features
 
 - Photo Viewer
