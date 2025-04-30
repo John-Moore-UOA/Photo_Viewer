@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem 0;
+  background-color: #1a1a1a;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 1rem;
+}
+
+nav a:hover {
+  color: #61dafb;
+}
+
+main {
+  padding: 2rem;
+}
