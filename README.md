@@ -8,6 +8,7 @@ This is a React-based photo viewing application built with Vite. It includes fea
 ## Backend 
 - Flask
 
+## Progress
 - [x] Photo Viewing
 - [X] Load Collections
 - [ ] Machine Learning Sort by People
